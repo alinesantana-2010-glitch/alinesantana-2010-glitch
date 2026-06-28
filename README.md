@@ -22,13 +22,13 @@
 
 ## 🌱 Atualmente
 
-- Desenvolvendo projetos responsivos
+- Desenvolvendo projetos Responsivos
 - Aprendendo JavaScript
-- Construindo meu portfólio
+- Construindo meu Portfólio
 
 ---
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: www.linkedin.com/in/aline-morais-bb7ba0301
+- 💼 [LinkedIn](https://www.linkedin.com/in/aline-morais-bb7ba0301)
 - GitHub: github.com/alinesantana-2010-glitch
