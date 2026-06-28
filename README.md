@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou a Aline 👋
 
-<!--
-**alinesantana-2010-glitch/alinesantana-2010-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-End em formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Desenvolvimento Web na TripleTen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Porto, Portugal
+
+---
+
+## 🚀 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Design
+- Metodologia BEM
+
+---
+
+## 🌱 Atualmente
+
+- Desenvolvendo projetos responsivos
+- Aprendendo JavaScript
+- Construindo meu portfólio
+
+---
+
+## 📫 Onde me encontrar
+
+- LinkedIn: www.linkedin.com/in/aline-morais-bb7ba0301
+- GitHub: github.com/alinesantana-2010-glitch
